@@ -28,6 +28,16 @@ Através da exploração, limpeza, visualização e análise estatística dos da
 
 ## 📁 Estrutura do Projeto
 
+customer-churn-analysis-python/
+│
+├── data/
+│ └── clientes.csv
+│
+├── notebooks/
+│ └── Python_Insights.ipynb
+│
+├── README.md
+└── requirements.txt
 
 ---
 
@@ -39,6 +49,34 @@ Através da exploração, limpeza, visualização e análise estatística dos da
 - Criação de gráficos para visualização  
 - Identificação de fatores relevantes para churn  
 - Geração de insights de negócio  
+
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/Wejal39/customer-churn-analysis-python.git
+
+cd customer-churn-analysis-python
+
+2. Acesse a pasta:
+cd customer-churn-analysis-python
+
+3. Instale as dependências:
+pip install -r requirements.txt
+
+4. Execute o notebook:
+jupyter notebook
+
+5. Abra o arquivo:
+notebooks/Python_Insights.ipynb
+
+
+## 👨‍💻 Autor
+
+**Wellington Alves**  
+Projeto desenvolvido durante a Jornada Python – Hashtag Treinamentos.
 
 
 
