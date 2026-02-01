@@ -17,12 +17,10 @@ Através da exploração, limpeza, visualização e análise estatística dos da
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
+- Python
+- Pandas
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
 ---
 
@@ -52,6 +50,18 @@ customer-churn-analysis-python/
 
 ---
 
+### 🔍 Principais Insights
+- Clientes com contrato mensal apresentam maior taxa de churn
+- Serviços adicionais impactam diretamente na retenção
+- Determinados segmentos concentram maior evasão
+
+---
+
+### 📈 Resultados
+Os resultados podem orientar ações como revisão de planos, campanhas de retenção
+e melhoria na oferta de serviços.
+
+
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
@@ -77,6 +87,7 @@ notebooks/Python_Insights.ipynb
 
 **Wellington Alves**  
 Projeto desenvolvido durante a Jornada Python – Hashtag Treinamentos.
+
 
 
 
