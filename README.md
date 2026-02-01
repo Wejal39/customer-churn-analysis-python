@@ -86,7 +86,8 @@ notebooks/Python_Insights.ipynb
 ## 👨‍💻 Autor
 
 **Wellington Alves**  
-Projeto desenvolvido durante a Jornada Python – Hashtag Treinamentos.
+Projeto desenvolvido durante a Jornada Python em Setembro de 2025 – Hashtag Treinamentos.
+
 
 
 
